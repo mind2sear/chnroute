@@ -10,7 +10,7 @@ INCLUDE_LIST_TXT="include_list.txt"
 EXCLUDE_LIST_TXT="exclude_list.txt"
 GFWLIST="gfwlist.txt"
 LIST_NAME="gfw_list"
-DNS_SERVER="\$dnsserver 192.168.1.4"
+DNS_SERVER="\$dnsserver"
 DNS_SERVER_VAR="dnsserver"
 GFWLIST_RSC="gfwlist.rsc"
 GFWLIST_V7_RSC="gfwlist_v7.rsc"
@@ -44,7 +44,7 @@ create_gfwlist_rsc() {
                 s/^/:do { add forward-to=${DNS_SERVER} type=FWD address-list=${LIST_NAME} match-subdomain=yes name=/g;
                 1s/^/\/ip dns static\n/;
                 1s/^/\/ip dns static remove [\/ip dns static find address-list=${LIST_NAME} ]\n/;
-                1s/^/:global ${DNS_SERVER_VAR}\n/
+                1s/^/:global ${DNS_SERVER_VAR} 192.168.1.4\n/
                 " "$output_rsc"
             ;;
         *)
