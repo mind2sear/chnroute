@@ -1,4 +1,4 @@
-name: Daily Make and Commit
+name: Daily Make
 
 on:
   schedule:
