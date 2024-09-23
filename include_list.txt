@@ -1,3 +1,5 @@
+pola.rs
+groq.com
 1lib.at
 1lib.ph
 1lib.to
