@@ -1,5 +1,3 @@
-pola.rs
-groq.com
 1lib.at
 1lib.ph
 1lib.to
@@ -36,6 +34,7 @@ globalsign.com
 globalsign.net
 good.news
 googleapis-cn.com
+groq.com
 himalaya.exchange
 huggingface.co
 justmysocks.net
@@ -82,6 +81,7 @@ perplexity.ai
 phonefactor.net
 poe.com
 poecdn.net
+pola.rs
 pola.rs
 powerapps.com
 powerautomate.com
