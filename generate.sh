@@ -62,7 +62,7 @@ create_gfwlist_rsc() {
             ;;
     esac
 
-    sed -i "$sed_script" "$output_rsc"
+    sed -i -e '$a\/ip dns cache flush' "$output_rsc"
     echo "/ip dns cache flush" >> "$output_rsc"
 }
 
