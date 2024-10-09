@@ -229,7 +229,6 @@ aiweiwei.com
 aiweiweiblog.com
 akademiye.org
 akamaihd.net
-akamaihd.net
 akiba-online.com
 akiba-web.com
 akow.org
@@ -470,7 +469,6 @@ babynet.com.hk
 backchina.com
 backpackers.com.tw
 backtotiananmen.com
-bad.news
 bad.news
 badiucao.com
 badjojo.com
@@ -2816,7 +2814,6 @@ hudson.org
 huffingtonpost.com
 huffpost.com
 huggingface.co
-huggingface.co
 hugoroy.eu
 huhaitai.com
 huhamhire.com
@@ -3336,7 +3333,6 @@ linear-abematv.akamaized.net
 linglingfa.com
 lingvodics.com
 link-o-rama.com
-linkedin.com
 linkedin.com
 linkideo.com
 linkuswell.com
@@ -4223,7 +4219,6 @@ perfect-privacy.com
 perfectgirls.net
 periscope.tv
 perplexity.ai
-perplexity.ai
 persecutionblog.com
 persiankitty.com
 phapluan.org
@@ -4298,7 +4293,6 @@ pobieramy.top
 podbean.com
 podcast.co
 podictionary.com
-poe.com
 poe.com
 poecdn.net
 pokerstars.com
@@ -5642,7 +5636,6 @@ txxx.com
 tycool.com
 typepad.com
 typora.io
-typora.io
 u15.info
 u9un.com
 ub0.cc
@@ -6170,7 +6163,6 @@ x-art.com
 x-berry.com
 x-wall.org
 x.co
-x.com
 x.com
 x.company
 x1949x.com
