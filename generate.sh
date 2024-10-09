@@ -41,7 +41,7 @@ create_gfwlist_rsc() {
         v7)
             sed -i "
                 s/$/ } on-error={}/g;
-                s/^/:do { add forward-to=${DNS_SERVER} type=FWD address-list=${LIST_NAME} match-subdomain=yes name=/g;
+                s/^/:do { add forward-to=${DNS_SERVER} type=FWD match-subdomain=yes name=/g;
                 1s/^/\/ip dns static\n/;
                 1s/^/\/ip dns static remove [\/ip dns static find address-list=${LIST_NAME} ]\n/;
                 1s/^/:global ${DNS_SERVER_VAR} 192.168.1.4\n/
