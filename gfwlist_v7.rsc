@@ -3421,7 +3421,6 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=lzjscript.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=lzlz.eu.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=lzmtnews.org } on-error={}
-:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=m-team.cc } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=m.hkgalden.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=m.me } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=m.plixi.com } on-error={}
@@ -6452,4 +6451,5 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=zzcartoon.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=zzcloud.me } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=zzux.com } on-error={}
+/ip dns cache flush
 /ip dns cache flush
