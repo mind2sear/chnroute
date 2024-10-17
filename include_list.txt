@@ -46,6 +46,8 @@ cf.odysseyplus.site
 cf1.jmsooo.com
 charontv.com
 cherrytv.one
+cloud1.mikrotik.com
+cloud2.mikrotik.com
 cortana.ai
 cursor.so
 deja-vu.beauty
@@ -236,6 +238,7 @@ symcb.com
 symcd.com
 trafficmanager.net
 typora.io
+upgrade.mikrotik.com
 verisign.com
 verisign.net
 visualstudio.com
@@ -254,7 +257,3 @@ yammerusercontent.com
 ycxdy.top
 zi0.icu
 zox.show
-upgrade.mikrotik.com
-cloud1.mikrotik.com
-cloud2.mikrotik.com
-cloud2.mikrotik.com
