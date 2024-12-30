@@ -807,7 +807,8 @@ broadpressinc.com
 brookings.edu
 brucewang.net
 brutaltgp.com
-bt2mag.com
+bsky.app
+bsky.social
 bt95.com
 btaia.com
 btbtav.com
@@ -1371,6 +1372,7 @@ deaftone.com
 debug.com
 deck.ly
 decodet.co
+deepai.org
 deepmind.com
 deezer.com
 definebabe.com
@@ -1457,6 +1459,7 @@ dnssec.net
 dnvod.tv
 docker.com
 docker.io
+docs.new
 doctorvoice.org
 documentingreality.com
 dogfartnetwork.com
@@ -2566,16 +2569,12 @@ h1n1china.org
 h528.com
 h5dm.com
 h5galgame.me
-hacg.club
-hacg.in
-hacg.li
-hacg.me
-hacg.red
 hacken.cc
 hacker.org
 hackmd.io
 hackthatphone.net
 hahlo.com
+haijiao.com
 hakkatv.org.tw
 handcraftedsoftware.org
 hanime.tv
@@ -4766,6 +4765,7 @@ sharpdaily.hk
 sharpdaily.tw
 shat-tibet.com
 shattered.io
+sheets.new
 sheikyermami.com
 shellfire.de
 shenshou.org
@@ -4854,6 +4854,7 @@ slaytizle.com
 sleazydream.com
 slheng.com
 slickvpn.com
+slides.new
 slideshare.net
 slinkset.com
 slutload.com
@@ -4869,6 +4870,7 @@ smhric.org
 smith.edu
 smyxy.org
 snapchat.com
+snapseed.com
 snaptu.com
 sndcdn.com
 sneakme.net
@@ -5893,6 +5895,7 @@ vpnworldwide.com
 vporn.com
 vpser.net
 vraiesagesse.net
+vrchat.com
 vrmtr.com
 vrsmash.com
 vtunnel.com
@@ -5994,6 +5997,7 @@ wforum.com
 wha.la
 whatblocked.com
 whatbrowser.org
+whats.new
 whatsapp.com
 whatsapp.net
 whatsonweibo.com
