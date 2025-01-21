@@ -161,7 +161,6 @@ about.google
 about.me
 aboutgfw.com
 abs.edu
-ac.jiruan.net
 aca.best
 acast.com
 accim.org
@@ -220,6 +219,7 @@ ai-kan.net
 ai-wen.net
 ai.binwang.me
 ai.google
+aiosearch.com
 aiph.net
 airasia.com
 airconsole.com
@@ -297,6 +297,7 @@ ancsconf.org
 andfaraway.net
 android-x86.org
 android.com
+androidapksfree.com
 androidify.com
 androidplus.co
 androidtv.com
@@ -337,7 +338,6 @@ apetube.com
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
-api.dropboxapi.com
 api.linksalpha.com
 api.pureapk.com
 api.recaptcha.net
@@ -406,6 +406,7 @@ asianwomensfilm.de
 asiaone.com
 asiatgp.com
 asiatoday.us
+ask.com
 askstudent.com
 askynz.net
 aspi.org.au
@@ -752,6 +753,7 @@ bloombergview.com
 bloomfortune.com
 blubrry.com
 blueangellive.com
+bmdru.com
 bmfinn.com
 bnbstatic.com
 bnews.co
@@ -919,6 +921,7 @@ cathvoice.org.tw
 catlinks.co.uk
 cato.org
 cattt.com
+caus.com
 cbc.ca
 cbs.ntu.edu.tw
 cbsnews.com
@@ -1034,6 +1037,7 @@ chinachange.org
 chinachannel.hk
 chinacitynews.be
 chinacomments.org
+chinademocrats.org
 chinadialogue.net
 chinadigitaltimes.net
 chinaelections.org
@@ -1201,6 +1205,7 @@ code1984.com
 codeshare.io
 codeskulptor.org
 coin2co.in
+coinbase.com
 coinbene.com
 coinegg.com
 coinex.com
@@ -1490,6 +1495,7 @@ dongtaiwang.net
 dongyangjing.com
 dontfilter.us
 dontmovetochina.com
+doourbest.org
 dorjeshugden.com
 dotplane.com
 dotsub.com
@@ -1516,6 +1522,7 @@ drgan.net
 drmingxia.org
 dropbooks.tv
 dropbox.com
+dropboxapi.com
 dropboxusercontent.com
 drsunacademy.com
 drtuber.com
@@ -2038,7 +2045,7 @@ freewww.info
 freexinwen.com
 freeyellow.com
 freeyoutubeproxy.net
-friendfeed-media.com
+freezhihu.org
 friendfeed.com
 friends-of-tibet.org
 friendsoftibet.org
@@ -2063,6 +2070,7 @@ fuckcnnic.net
 fuckgfw.org
 fulione.com
 fullerconsideration.com
+fullservicegame.com
 fulue.com
 funf.tw
 funkyimg.com
@@ -2203,6 +2211,7 @@ githubcopilot.com
 githubusercontent.com
 gizlen.net
 gjczz.com
+glarity.app
 glass8.eu
 global.bing.com
 globaljihad.net
@@ -3126,7 +3135,7 @@ jinbushe.org
 jingpin.org
 jingsim.org
 jinpianwang.com
-jinroukong.com
+jinrizhiyi.news
 jintian.net
 jinx.com
 jitouch.com
@@ -3136,11 +3145,11 @@ jkb.cc
 jkforum.net
 jkub.com
 jma.go.jp
+jmsc.hku.hk
 jmscult.com
 jmsooo.com
 joachims.org
 jobnewera.wordpress.com
-jobso.tv
 joinclubhouse.com
 joinmastodon.org
 jornaldacidadeonline.com.br
@@ -3222,6 +3231,7 @@ khmusic.com.tw
 kichiku-doujinko.com
 kik.com
 killwall.com
+kindle4rss.com
 kindleren.com
 kineox.free.fr
 kingdomsalvation.org
@@ -3652,6 +3662,7 @@ mod.io
 modernchinastudies.org
 moeaic.gov.tw
 moeerolibrary.com
+moeshare.cc
 mofa.gov.tw
 mofaxiehui.com
 mofos.com
@@ -3879,12 +3890,12 @@ news.yahoo.com
 news.ycombinator.com
 news100.com.tw
 newsancai.com
+newsblur.com
 newschinacomment.org
 newscn.org
 newsdetox.ca
 newsdh.com
 newsmax.com
-newspeak.cc
 newstamago.com
 newstapa.org
 newstarnet.com
@@ -3956,7 +3967,6 @@ nordstromrack.com
 nordvpn.com
 nos.nl
 notepad-plus-plus.org
-notify.dropboxapi.com
 nottinghampost.com
 novelasia.com
 now.com
@@ -4299,9 +4309,11 @@ piring.com
 pixeldrain.com
 pixelqi.com
 pixiv.net
+pixivsketch.net
 pixnet.net
 pk.com
 pki.goog
+pkqjiasu.com
 placemix.com
 play-asia.com
 playboy.com
@@ -4477,6 +4489,7 @@ qhigh.com
 qi-gong.me
 qianbai.tw
 qiandao.today
+qianglie.com
 qiangwaikan.com
 qiangyou.org
 qidian.ca
@@ -4532,19 +4545,17 @@ rapbull.net
 rapidmoviez.com
 rapidvpn.com
 rarbgprx.org
-raremovie.cc
-raremovie.net
 rateyourmusic.com
 rationalwiki.org
 raw.githack.com
 rawgit.com
 rawgithub.com
-razyboard.com
 rcam.target.com
 rcinet.ca
 rconversation.blogs.com
 rd.com
 rdio.com
+reabble.com
 read01.com
 read100.com
 readingtimes.com.tw
@@ -4585,7 +4596,6 @@ religioustolerance.org
 renminbao.com
 renyurenquan.org
 research.google
-research.jmsc.hku.hk
 resilio.com
 resistchina.org
 retweeteffect.com
@@ -4620,6 +4630,7 @@ roadshow.hk
 roboforex.com
 robustnessiskey.com
 rocket-inc.net
+rocket.chat
 rocksdb.org
 rojo.com
 rolfoundation.org
@@ -5422,6 +5433,7 @@ timsah.com
 timtales.com
 tinc-vpn.org
 tineye.com
+tingtalk.me
 tintuc101.com
 tiny.cc
 tinychat.com
@@ -5762,6 +5774,7 @@ usaip.eu
 uscardforum.com
 uscnpm.org
 userapi.nytlog.com
+usercontent.goog
 users.skynet.be
 usfk.mil
 ushuarencity.echainhost.com
@@ -5776,6 +5789,7 @@ ustream.tv
 usus.cc
 utopianpal.com
 uu-gg.com
+uujiasu.com
 uukanshu.com
 uvwxyz.xyz
 uwants.com
@@ -5897,6 +5911,7 @@ voy.com
 vpl.bibliocommons.com
 vpn.ac
 vpn.cmu.edu
+vpn.net
 vpn.sv.cmu.edu
 vpn4all.com
 vpnaccount.org
@@ -6007,12 +6022,12 @@ websitepulse.com
 webwarper.net
 webworkerdaily.com
 wechatlawsuit.com
+weebly.com
 weekmag.info
 wefightcensorship.org
 wefong.com
 wego.here.com
 weiboleak.com
-weiboscope.jmsc.hku.hk
 weihuo.org
 weijingsheng.org
 weiming.info
@@ -6064,7 +6079,6 @@ wiki.cnitter.com
 wiki.gamerp.jp
 wiki.jqueryui.com
 wiki.keso.cn
-wiki.moegirl.org
 wiki.oauth.net
 wiki.phonegap.com
 wikileaks-forum.com
@@ -6225,10 +6239,10 @@ xbtce.com
 xcafe.in
 xcity.jp
 xcritic.com
-xda-developers.com
 xerotica.com
 xfinity.com
 xfm.pp.ru
+xfxssr.me
 xgmyd.com
 xhamster.com
 xianba.net
@@ -6273,6 +6287,7 @@ xn--9pr62r24a.com
 xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
 xn--ngstr-lra8j.com
+xn--noss43i.com
 xn--oiq.cc
 xn--p8j9a0d9c9a.xn--q9jyb4c
 xnxx.com
