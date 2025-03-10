@@ -1040,6 +1040,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=character.ai } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=charontv.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=chat.lmsys.org } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=chat.openai.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=chatgpt.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=chatnook.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=chaturbate.com } on-error={}
@@ -4209,7 +4210,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=oopsforum.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=open.com.hk } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=open.firstory.me } on-error={}
-:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=openai.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=open.spotify.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=openallweb.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=opendemocracy.net } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=opendn.xyz } on-error={}
@@ -5099,7 +5100,6 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=spike.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=sports.williamhill.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=spotflux.com } on-error={}
-:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=spotify.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=spreadsheet.new } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=spreadshirt.es } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=spreaker.com } on-error={}
