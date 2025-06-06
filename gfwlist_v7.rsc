@@ -141,6 +141,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=9001700.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=908taiwan.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=9191001.xyz } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=91dasai.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=91porn.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=91porny.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=91vps.club } on-error={}
@@ -1255,6 +1256,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=codeshare.io } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=codeskulptor.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=cofacts.tw } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=coffeemanga.to } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=coin2co.in } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=coinbase.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=coinbene.com } on-error={}
