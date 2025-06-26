@@ -964,7 +964,6 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=cherrysave.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=cherrytv.one } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=chhongbi.org } on-error={}
-:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=chicagoncmtv.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=china-mmm.jp.net } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=china-mmm.net } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=china-review.com.ua } on-error={}
@@ -1844,8 +1843,6 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=freedominfonetweb.wordpress.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=freedomsherald.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=freeforums.org } on-error={}
-:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=freefq.com } on-error={}
-:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=freefuckvids.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=freegao.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=freehongkong.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=freeilhamtohti.org } on-error={}
@@ -4195,6 +4192,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radioline.co } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radiovaticana.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radiovncr.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radmin-vpn.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=rael.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=raggedbanner.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=raidcall.com.tw } on-error={}

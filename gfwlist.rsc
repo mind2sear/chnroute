@@ -964,7 +964,6 @@
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*cherrysave\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*cherrytv\\.one\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*chhongbi\\.org\$" } on-error={}
-:do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*chicagoncmtv\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*china-mmm\\.jp\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*china-mmm\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*china-review\\.com\\.ua\$" } on-error={}
@@ -1844,8 +1843,6 @@
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*freedominfonetweb\\.wordpress\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*freedomsherald\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*freeforums\\.org\$" } on-error={}
-:do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*freefq\\.com\$" } on-error={}
-:do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*freefuckvids\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*freegao\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*freehongkong\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*freeilhamtohti\\.org\$" } on-error={}
@@ -4195,6 +4192,7 @@
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*radioline\\.co\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*radiovaticana\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*radiovncr\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*radmin-vpn\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*rael\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*raggedbanner\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*raidcall\\.com\\.tw\$" } on-error={}
