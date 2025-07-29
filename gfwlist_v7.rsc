@@ -5550,6 +5550,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=wahas.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=waikeung.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=wainao.me } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=walletconnect.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=wallmama.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=wallpapercasa.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=wallproxy.com } on-error={}
