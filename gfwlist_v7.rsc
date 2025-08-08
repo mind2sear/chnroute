@@ -584,6 +584,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bitcointalk.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bitcoinworld.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bitfinex.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bitget.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bithumb.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bitmex.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bitshare.com } on-error={}
@@ -1088,6 +1089,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=cloud.mail.ru } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=cloud1.mikrotik.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=cloud2.mikrotik.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=cloudflare-dns.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=cloudflare-ipfs.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=cloudfunctions.net } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=club1069.com } on-error={}
@@ -5338,6 +5340,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=unstable.icu } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=unwire.hk } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=uocn.org } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=upbit.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=updates.tdesktop.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=upghsbc.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=upgrade.mikrotik.com } on-error={}
@@ -5770,7 +5773,6 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.moztw.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.msn.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.nbc.com } on-error={}
-:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.nodeloc.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.owind.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.oxid.it } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.powerpointninja.com } on-error={}

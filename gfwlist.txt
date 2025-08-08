@@ -581,6 +581,7 @@ bitchute.com
 bitcointalk.org
 bitcoinworld.com
 bitfinex.com
+bitget.com
 bithumb.com
 bitmex.com
 bitshare.com
@@ -1085,6 +1086,7 @@ cloud.dify.ai
 cloud.mail.ru
 cloud1.mikrotik.com
 cloud2.mikrotik.com
+cloudflare-dns.com
 cloudflare-ipfs.com
 cloudfunctions.net
 club1069.com
@@ -5335,6 +5337,7 @@ unseen.is
 unstable.icu
 unwire.hk
 uocn.org
+upbit.com
 updates.tdesktop.com
 upghsbc.com
 upgrade.mikrotik.com
@@ -5767,7 +5770,6 @@ www.monlamit.org
 www.moztw.org
 www.msn.com
 www.nbc.com
-www.nodeloc.com
 www.owind.com
 www.oxid.it
 www.powerpointninja.com
