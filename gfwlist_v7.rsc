@@ -2784,6 +2784,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=iphonetaiwan.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=iphonix.fr } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ipicture.ru } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ipify.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ipjetable.net } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ipobar.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ipoock.com } on-error={}
