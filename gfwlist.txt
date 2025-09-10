@@ -220,6 +220,7 @@ aiweiwei.com
 aiweiweiblog.com
 akademiye.org
 akamaihd.net
+akamaihd.net
 akiba-online.com
 akiba-web.com
 akinator.com
@@ -234,6 +235,7 @@ alhayat.com
 alicejapan.co.jp
 aliengu.com
 alive.bar
+aljazeera.com
 aljazeera.com
 alkasir.com
 all4mom.org
@@ -443,6 +445,7 @@ babynet.com.hk
 backchina.com
 backpackers.com.tw
 backtotiananmen.com
+bad.news
 bad.news
 badiucao.com
 badjojo.com
@@ -1387,6 +1390,8 @@ dnssec.net
 dnvod.tv
 doc.new
 docker.com
+docker.com
+docker.io
 docker.io
 docs.deno.com
 docs.new
@@ -2096,6 +2101,7 @@ goo.gl
 goo.gle
 goo.ne.jp
 good.news
+good.news
 gooday.xyz
 goodhope.school
 goodisp.org
@@ -2619,6 +2625,7 @@ hudson.org
 huffingtonpost.com
 huffpost.com
 huggingface.co
+huggingface.co
 hugoroy.eu
 huhaitai.com
 huhamhire.com
@@ -2940,6 +2947,7 @@ justdied.com
 justfreevpn.com
 justhost.ru
 justmysocks.net
+justmysocks.net
 justmysocks1.net
 justmysockscn.com
 justpaste.it
@@ -3123,6 +3131,7 @@ linglingfa.com
 lingualeo.com
 lingvodics.com
 link-o-rama.com
+linkedin.com
 linkedin.com
 linkideo.com
 linktr.ee
@@ -3816,6 +3825,7 @@ on2.com
 onapp.com
 one.one.one.one
 onedrive.com
+onedrive.com
 onedrive.live.com
 onedumb.com
 onejav.com
@@ -3970,6 +3980,7 @@ perfect-privacy.com
 perfectgirls.net
 periscope.tv
 perplexity.ai
+perplexity.ai
 persecutionblog.com
 persiankitty.com
 pewresearch.org
@@ -4037,6 +4048,7 @@ pobieramy.top
 podbean.com
 podcast.co
 podictionary.com
+poe.com
 poe.com
 poecdn.net
 points-media.com
@@ -5311,6 +5323,7 @@ tycool.com
 typepad.com
 typeset.io
 typora.io
+typora.io
 u15.info
 u9un.com
 ua5v.com
@@ -5824,6 +5837,7 @@ x-berry.com
 x-wall.org
 x.ai
 x.co
+x.com
 x.com
 x.company
 x24hr.com
