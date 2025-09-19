@@ -1962,6 +1962,7 @@
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*gardennetworks\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*gardennetworks\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*gartlive\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*garudalinux\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*gate\\.io\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*gatecoin\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*gather\\.com\$" } on-error={}
@@ -2042,6 +2043,7 @@
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*githubassets\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*githubcopilot\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*githubusercontent\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*gitlab\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*gitlab\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*gizlen\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*gjczz\\.com\$" } on-error={}
@@ -3676,6 +3678,7 @@
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*ninjacloak\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*ninjaproxy\\.ninja\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*nintendium\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*nirsoft\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*nitter\\.cc\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*nitter\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*niu\\.moe\$" } on-error={}
@@ -5567,6 +5570,7 @@
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*vpnworldwide\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*vporn\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*vpser\\.net\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*vpsxb\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*vraiesagesse\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*vrchat\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=gfw_list regexp=".*vrmtr\\.com\$" } on-error={}
