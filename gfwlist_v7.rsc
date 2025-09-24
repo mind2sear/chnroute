@@ -1214,6 +1214,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=csw.org.uk } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ct.org.tw } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ctao.org } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ctinets.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ctinews.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ctitv.com.tw } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ctowc.org } on-error={}
@@ -2774,6 +2775,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=internetdefenseleague.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=internetfreedom.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=internetpopculture.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=interseclab.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=inthenameofconfuciusmovie.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=investigating.wordpress.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=invidio.us } on-error={}
