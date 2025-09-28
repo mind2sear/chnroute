@@ -193,5 +193,8 @@ xmsl.org
 yammer.com
 yammerusercontent.com
 ycxdy.top
+z-lib.fm
+z-lib.gd
+z-library.sk
 zi0.icu
 zox.show

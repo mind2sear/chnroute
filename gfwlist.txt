@@ -150,6 +150,7 @@ abematv.akamaized.net
 abitno.linpie.com
 ablwang.com
 aboluowang.com
+about.gitlab.com
 about.me
 abplive.com
 abs.edu
@@ -325,6 +326,7 @@ apetube.com
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
+api.palworldgame.com
 api.pureapk.com
 api.recaptcha.net
 api.steampowered.com
@@ -1212,6 +1214,7 @@ csuchen.de
 csw.org.uk
 ct.org.tw
 ctao.org
+ctinets.com
 ctinews.com
 ctitv.com.tw
 ctowc.org
@@ -1964,6 +1967,7 @@ gaopi.net
 gardennetworks.com
 gardennetworks.org
 gartlive.com
+garudalinux.org
 gate.io
 gatecoin.com
 gather.com
@@ -2775,6 +2779,7 @@ internet.org
 internetdefenseleague.org
 internetfreedom.org
 internetpopculture.com
+interseclab.org
 inthenameofconfuciusmovie.com
 investigating.wordpress.com
 invidio.us
@@ -3278,6 +3283,7 @@ mcadforums.com
 mcaf.ee
 mcfog.com
 mcreasite.com
+mcusercontent.com
 md-t.org
 me.me
 me.ns.ci
@@ -3681,6 +3687,7 @@ ninecommentaries.com
 ninjacloak.com
 ninjaproxy.ninja
 nintendium.com
+nirsoft.net
 nitter.cc
 nitter.net
 niu.moe
@@ -3783,6 +3790,7 @@ occupytiananmen.com
 ocreampies.com
 ocry.com
 october-review.org
+octocaptcha.com
 oculus.com
 oculuscdn.com
 odycdn.com
@@ -4542,6 +4550,7 @@ simplecd.org
 simpleproductivityblog.com
 simpleswap.io
 simplex.chat
+sina.com.hk
 sinchew.com.my
 singaporepools.com.sg
 singfortibet.com
@@ -4855,6 +4864,7 @@ taiwantt.org.tw
 taiwanus.net
 taiwanyes.ning.com
 talk853.com
+talkatone.com
 talkboxapp.com
 talkcc.com
 talkonly.net
@@ -5332,7 +5342,6 @@ ubddns.org
 uberproxy.net
 uc-japan.org
 uchicago.edu
-uderzo.it
 udn.com
 udn.com.tw
 udnbkk.com
@@ -5574,6 +5583,7 @@ vpnvip.com
 vpnworldwide.com
 vporn.com
 vpser.net
+vpsxb.net
 vraiesagesse.net
 vrchat.com
 vrmtr.com
@@ -5708,6 +5718,7 @@ wikilivres.info
 wikimapia.org
 wikimedia.org
 wikinews.org
+wikipedia.com
 wikipedia.org
 wikisource.org
 wikiversity.org
@@ -6014,11 +6025,14 @@ yyjlymb.xyz
 yysub.net
 yzzk.com
 z-lib.fm
+z-lib.fm
 z-lib.fo
+z-lib.gd
 z-lib.gd
 z-lib.gl
 z-lib.io
 z-lib.org
+z-library.sk
 z-library.sk
 zacebook.com
 zalmos.com
