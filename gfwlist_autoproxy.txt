@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ClXVkiS9yCes4RxRHw/Dew
+! Checksum: Wt5wF6cv4B3aSe7i7pnehQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 25 Sep 2025 03:27:54 +0000
+! Last Modified: Thu, 16 Oct 2025 10:15:54 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -324,6 +324,7 @@
 69.65.19.160
 
 !----------------------IDN----------------------
+||xn--u2u927b.com
 ||xn--11xs86f.icu
 ||xn--4gq171p.com
 ||xn--czq75pvv1aj5c.org
@@ -897,6 +898,7 @@ bloomberg.de
 ||ftchinese.com
 
 !!---Google---
+||goog
 ||gle
 ||google
 ||doc.new
@@ -1435,6 +1437,7 @@ zh.uncyclopedia.wikia.com
 ||yahoo.com
 
 !------------------Numerics---------------------
+||996.icu
 ||ipfs.4everland.io
 ||91dasai.com
 ||i.111666.best
@@ -1574,6 +1577,7 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||asianfanfics.com
 ||amuletmc.com
 ||abplive.com
 ||cdn.arstechnica.net
@@ -2116,7 +2120,6 @@ brucewang.net
 .btaia.com
 .btbtav.com
 ||btdig.com
-||btdigg.org
 ||btguard.com
 .btku.me
 ||btku.me
@@ -2964,6 +2967,8 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||freegpt.tech
+||freegpt.es
 ||feedly.com
 ||fuckccp.xyz
 ||fuckccp.com
@@ -4683,7 +4688,7 @@ maskedip.com
 maruta.be/forget
 .marxist.com
 ||marxist.net
-.marxists.org/chinese
+||marxists.org
 !--||mashable.com
 ||matainja.com
 ||matrix.org
@@ -5714,6 +5719,7 @@ rutube.ru
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||solscan.io
 ||sina.com.hk
 ||swapspace.co
 ||storry.tv
@@ -6178,6 +6184,9 @@ blog.syx86.com/2009/09/puff
 .szetowah.org.hk
 
 !--------------------TT-------------------------
+||trustwallet.com
+||tap.io
+||taptap.io
 ||talkatone.com
 ||tanks.gg
 ||thehansindia.com
@@ -6865,6 +6874,7 @@ uygur.org
 |http://uymaarip.com/
 
 !--------------------VV-------------------------
+||vimeocdn.com
 ||vpsxb.net
 ||vilanet.me
 ||vewas.net
@@ -7023,6 +7033,7 @@ vraiesagesse.net
 ||vuku.cc
 
 !--------------------WW-------------------------
+||websdr.org
 ||wikipedia.com
 ||wxw.moe
 ||wxw.cat
@@ -7419,6 +7430,7 @@ yx51.net
 ||yzzk.com
 
 !--------------------ZZ-------------------------
+||z-library.ec
 ||z-library.sk
 ||z-lib.fm
 ||z-lib.gd

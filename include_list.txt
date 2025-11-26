@@ -33,7 +33,6 @@ bangumi.ca
 bddup.com
 bgka.me
 bili.rip
-bing.com
 carlos.trade
 catlinks.co.uk
 cf.jmsooo.com
@@ -43,6 +42,7 @@ charontv.com
 cherrytv.one
 cloud1.mikrotik.com
 cloud2.mikrotik.com
+cloudflare.com
 cortana.ai
 cursor.so
 deja-vu.beauty

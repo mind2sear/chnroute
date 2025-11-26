@@ -128,6 +128,7 @@
 92ccav.com
 9521732.xyz
 991.com
+996.icu
 99btgc01.com
 99cn.info
 9bis.com
@@ -221,6 +222,7 @@ aiweiwei.com
 aiweiweiblog.com
 akademiye.org
 akamaihd.net
+akamaihd.net
 akiba-online.com
 akiba-web.com
 akinator.com
@@ -235,6 +237,7 @@ alhayat.com
 alicejapan.co.jp
 aliengu.com
 alive.bar
+aljazeera.com
 aljazeera.com
 alkasir.com
 all4mom.org
@@ -382,6 +385,7 @@ asia-gaming.com
 asiaharvest.org
 asianage.com
 asianews.it
+asianfanfics.com
 asiansexdiary.com
 asiaone.com
 asiatgp.com
@@ -445,6 +449,7 @@ babynet.com.hk
 backchina.com
 backpackers.com.tw
 backtotiananmen.com
+bad.news
 bad.news
 badiucao.com
 badjojo.com
@@ -783,7 +788,6 @@ btc98.com
 btcbank.bank
 btctrade.im
 btdig.com
-btdigg.org
 btguard.com
 btku.me
 btku.org
@@ -1094,6 +1098,7 @@ cloud1.mikrotik.com
 cloud2.mikrotik.com
 cloudflare-dns.com
 cloudflare-ipfs.com
+cloudflare.com
 cloudfunctions.net
 club1069.com
 clubhouseapi.com
@@ -1390,6 +1395,8 @@ dnssec.net
 dnvod.tv
 doc.new
 docker.com
+docker.com
+docker.io
 docker.io
 docs.deno.com
 docs.new
@@ -1856,6 +1863,8 @@ freedominfonetweb.wordpress.com
 freedomsherald.org
 freeforums.org
 freegao.com
+freegpt.es
+freegpt.tech
 freehongkong.org
 freeilhamtohti.org
 freekazakhs.org
@@ -2099,6 +2108,7 @@ gongm.in
 goo.gl
 goo.gle
 goo.ne.jp
+good.news
 good.news
 gooday.xyz
 goodhope.school
@@ -2623,6 +2633,7 @@ hudson.org
 huffingtonpost.com
 huffpost.com
 huggingface.co
+huggingface.co
 hugoroy.eu
 huhaitai.com
 huhamhire.com
@@ -2945,6 +2956,7 @@ justdied.com
 justfreevpn.com
 justhost.ru
 justmysocks.net
+justmysocks.net
 justmysocks1.net
 justmysockscn.com
 justpaste.it
@@ -3128,6 +3140,7 @@ linglingfa.com
 lingualeo.com
 lingvodics.com
 link-o-rama.com
+linkedin.com
 linkedin.com
 linkideo.com
 linktr.ee
@@ -3824,6 +3837,7 @@ on2.com
 onapp.com
 one.one.one.one
 onedrive.com
+onedrive.com
 onedrive.live.com
 onedumb.com
 onejav.com
@@ -3978,6 +3992,7 @@ perfect-privacy.com
 perfectgirls.net
 periscope.tv
 perplexity.ai
+perplexity.ai
 persecutionblog.com
 persiankitty.com
 pewresearch.org
@@ -4045,6 +4060,7 @@ pobieramy.top
 podbean.com
 podcast.co
 podictionary.com
+poe.com
 poe.com
 poecdn.net
 points-media.com
@@ -4630,6 +4646,7 @@ solana.com
 solarsystem.nasa.gov
 solidaritetibet.org
 solidfiles.com
+solscan.io
 solv.finance
 somee.com
 songjianjun.com
@@ -4860,8 +4877,10 @@ tanc.org
 tangren.us
 tanks.gg
 taoism.net
+tap.io
 tapanwap.com
 tapatalk.com
+taptap.io
 tardigrade.io
 tarr.uspto.gov
 taup.net
@@ -5172,6 +5191,7 @@ trt.net.tr
 trtc.com.tw
 truebuddha-md.org
 trulyergonomic.com
+trustwallet.com
 truthsocial.com
 truveo.com
 tryheart.jp
@@ -5320,6 +5340,7 @@ txxx.com
 tycool.com
 typepad.com
 typeset.io
+typora.io
 typora.io
 u15.info
 u9un.com
@@ -5483,6 +5504,7 @@ vijayatemple.org
 vilanet.me
 vilavpn.com
 vimeo.com
+vimeocdn.com
 vimperator.org
 vincnd.com
 vine.co
@@ -5633,6 +5655,7 @@ webpkgcache.com
 webrtc.org
 webrush.net
 webs-tv.net
+websdr.org
 website.informer.com
 website.new
 websitepulse.com
@@ -5836,6 +5859,7 @@ x-wall.org
 x.ai
 x.co
 x.com
+x.com
 x.company
 x24hr.com
 x3guide.com
@@ -5888,6 +5912,7 @@ xn--ngstr-lra8j.com
 xn--noss43i.com
 xn--oiq.cc
 xn--p8j9a0d9c9a.xn--q9jyb4c
+xn--u2u927b.com
 xnpool.com
 xnxx.com
 xpdo.net
@@ -6018,6 +6043,7 @@ z-lib.gd
 z-lib.gl
 z-lib.io
 z-lib.org
+z-library.ec
 z-library.sk
 z-library.sk
 zacebook.com
