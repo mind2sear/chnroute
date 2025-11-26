@@ -1,9 +1,11 @@
 [AutoProxy 0.2.9]
 ! Checksum: Wt5wF6cv4B3aSe7i7pnehQ
+! Checksum: fy/SoNy9ogwvM63dvZzd5w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
 ! Last Modified: Thu, 16 Oct 2025 10:15:54 +0000
+! Last Modified: Sat, 22 Nov 2025 11:41:21 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -324,6 +326,8 @@
 69.65.19.160
 
 !----------------------IDN----------------------
+||xn--9iqy04a7fi01l.com
+||xn--u2u927b.com
 ||xn--u2u927b.com
 ||xn--11xs86f.icu
 ||xn--4gq171p.com
@@ -812,6 +816,7 @@ bloomberg.de
 .zzux.com
 
 !!--Cloudflare--
+||cloudflarestatus.com
 !--||pages.dev
 ||workers.dev
 ||one.one.one.one
@@ -898,6 +903,7 @@ bloomberg.de
 ||ftchinese.com
 
 !!---Google---
+||goog
 ||goog
 ||gle
 ||google
@@ -1438,6 +1444,7 @@ zh.uncyclopedia.wikia.com
 
 !------------------Numerics---------------------
 ||996.icu
+||996.icu
 ||ipfs.4everland.io
 ||91dasai.com
 ||i.111666.best
@@ -1577,6 +1584,10 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||ai.dev
+||adguard-vpn.com
+||aoxvpn.com
+||asianfanfics.com
 ||asianfanfics.com
 ||amuletmc.com
 ||abplive.com
@@ -1862,6 +1873,7 @@ boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 
 !--------------------BB-------------------------
+||bettergpt.chat
 ||bt4gprx.com
 ||bt4g.org
 ||betterhash.net
@@ -2164,6 +2176,10 @@ busytrade.com
 ||bypasscensorship.org
 
 !--------------------CC-------------------------
+||cchostvps.xyz
+||canva.com
+||chatpdf.com
+||chat.com
 ||ctinets.com
 ||covenantswatch.org.tw
 ||cpu-monkey.com
@@ -2568,6 +2584,8 @@ cyberghostvpn.com
 ||nic.cz.cc
 
 !--------------------DD-------------------------
+||darmau.co
+||dockerstatus.com
 ||deno.dev
 ||docs.deno.com
 ||doom9.org
@@ -2660,10 +2678,6 @@ dcmilitary.com
 .definebabe.com
 
 ||delcamp.net
-delicious.com/GFWbookmark
-.democrats.org
-||democrats.org
-.demosisto.hk
 ||demosisto.hk
 ||desc.se
 ||dessci.com
@@ -2967,6 +2981,12 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||hyperbeam.com
+||flowgpt.com
+||forefront.ai
+||flexclip.com
+||freegpt.tech
+||freegpt.es
 ||freegpt.tech
 ||freegpt.es
 ||feedly.com
@@ -3279,6 +3299,7 @@ funp.com
 ||fxcm-chinese.com
 
 !--------------------GG-------------------------
+||greatfirevpn.com
 ||garudalinux.org
 ||about.gitlab.com
 ||gitlab.net
@@ -3344,7 +3365,7 @@ gdzf.org
 ||geek-art.net
 geekerhome.com/2010/03/xixiang-project-cross-gfw
 .gekikame.com
-|http://gekikame.com
+||gekikame.com
 .gelbooru.com
 |http://gelbooru.com
 ||generated.photos
@@ -3761,6 +3782,8 @@ guruonline.hk
 .gyatsostudio.com
 
 !--------------------HH-------------------------
+||hbomax.com
+||hicairo.com
 ||herominers.com
 ||hinet.net
 ||hindustantimes.com
@@ -4296,7 +4319,6 @@ jeanyim.com
 .jiangweiping.com
 ||jiangweiping.com
 ||jiaoyou8.com
-||jichangtj.com
 .jiehua.cz
 ||hk.jiepang.com
 ||tw.jiepang.com
@@ -4464,6 +4486,10 @@ kyohk.net
 ||kzeng.info
 
 !--------------------LL-------------------------
+||library-access.sk
+||linux.do
+||lmarena.ai
+||lexica.art
 ||luckymobile.ca
 ||ludepress.com
 ||lingualeo.com
@@ -4632,6 +4658,9 @@ lvhai.org
 ||lzmtnews.org
 
 !--------------------MM-------------------------
+||mij.rip
+||mji.rip
+||mjj.rip
 ||mcusercontent.com
 ||metamask.io
 ||missav.ws
@@ -4649,8 +4678,6 @@ lvhai.org
 ||madou.club
 ||mahjongsoul.com
 ||mangabz.com
-http://*.m-team.cc
-!--m-team.cc/forum
 .macrovpn.com
 ||mad-ar.ch
 ||madrau.com
@@ -4688,6 +4715,7 @@ maskedip.com
 maruta.be/forget
 .marxist.com
 ||marxist.net
+||marxists.org
 ||marxists.org
 !--||mashable.com
 ||matainja.com
@@ -4919,6 +4947,7 @@ mysinablog.com
 .mytizi.com
 
 !--------------------NN-------------------------
+||namu.wiki
 ||nirsoft.net
 ||naver.com
 ||maven.neoforged.net
@@ -5129,6 +5158,7 @@ nylonstockingsonline.com
 .nzchinese.com
 
 !--------------------OO-------------------------
+||files.oaiusercontent.com
 ||octocaptcha.com
 ||oojj.de
 ||onevps.com
@@ -5237,6 +5267,8 @@ oyghan.com/wps
 .ozyoyo.com
 
 !--------------------PP-------------------------
+||picsart.com
+||images.prismic.io
 ||api.palworldgame.com
 ||pewresearch.org
 ||privacyguides.org
@@ -5567,6 +5599,8 @@ nemesis2.qx.net/pages/MyEnTunnel
 qxbbs.org
 
 !--------------------RR-------------------------
+||rustdesk.com
+||rentry.co
 ||radmin-vpn.com
 ||rule34video.com
 ||r10s.jp
@@ -5719,6 +5753,9 @@ rutube.ru
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||sora.com
+||lt.sntp.uk
+||solscan.io
 ||solscan.io
 ||sina.com.hk
 ||swapspace.co
@@ -6184,6 +6221,11 @@ blog.syx86.com/2009/09/puff
 .szetowah.org.hk
 
 !--------------------TT-------------------------
+||terobox.com
+||temu.com
+||trustwallet.com
+||tap.io
+||taptap.io
 ||trustwallet.com
 ||tap.io
 ||taptap.io
@@ -6875,6 +6917,7 @@ uygur.org
 
 !--------------------VV-------------------------
 ||vimeocdn.com
+||vimeocdn.com
 ||vpsxb.net
 ||vilanet.me
 ||vewas.net
@@ -7033,6 +7076,8 @@ vraiesagesse.net
 ||vuku.cc
 
 !--------------------WW-------------------------
+||wikiunblocked.org
+||websdr.org
 ||websdr.org
 ||wikipedia.com
 ||wxw.moe
@@ -7430,6 +7475,7 @@ yx51.net
 ||yzzk.com
 
 !--------------------ZZ-------------------------
+||z-library.ec
 ||z-library.ec
 ||z-library.sk
 ||z-lib.fm
