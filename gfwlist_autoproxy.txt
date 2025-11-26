@@ -1,10 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: Wt5wF6cv4B3aSe7i7pnehQ
 ! Checksum: fy/SoNy9ogwvM63dvZzd5w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 16 Oct 2025 10:15:54 +0000
 ! Last Modified: Sat, 22 Nov 2025 11:41:21 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
@@ -327,7 +325,6 @@
 
 !----------------------IDN----------------------
 ||xn--9iqy04a7fi01l.com
-||xn--u2u927b.com
 ||xn--u2u927b.com
 ||xn--11xs86f.icu
 ||xn--4gq171p.com
@@ -904,7 +901,6 @@ bloomberg.de
 
 !!---Google---
 ||goog
-||goog
 ||gle
 ||google
 ||doc.new
@@ -1444,7 +1440,6 @@ zh.uncyclopedia.wikia.com
 
 !------------------Numerics---------------------
 ||996.icu
-||996.icu
 ||ipfs.4everland.io
 ||91dasai.com
 ||i.111666.best
@@ -1587,7 +1582,6 @@ taiwannation.50webs.com
 ||ai.dev
 ||adguard-vpn.com
 ||aoxvpn.com
-||asianfanfics.com
 ||asianfanfics.com
 ||amuletmc.com
 ||abplive.com
@@ -2985,8 +2979,6 @@ eyevio.jp
 ||flowgpt.com
 ||forefront.ai
 ||flexclip.com
-||freegpt.tech
-||freegpt.es
 ||freegpt.tech
 ||freegpt.es
 ||feedly.com
@@ -4716,7 +4708,6 @@ maruta.be/forget
 .marxist.com
 ||marxist.net
 ||marxists.org
-||marxists.org
 !--||mashable.com
 ||matainja.com
 ||matrix.org
@@ -5756,7 +5747,6 @@ rutube.ru
 ||sora.com
 ||lt.sntp.uk
 ||solscan.io
-||solscan.io
 ||sina.com.hk
 ||swapspace.co
 ||storry.tv
@@ -6223,9 +6213,6 @@ blog.syx86.com/2009/09/puff
 !--------------------TT-------------------------
 ||terobox.com
 ||temu.com
-||trustwallet.com
-||tap.io
-||taptap.io
 ||trustwallet.com
 ||tap.io
 ||taptap.io
@@ -6917,7 +6904,6 @@ uygur.org
 
 !--------------------VV-------------------------
 ||vimeocdn.com
-||vimeocdn.com
 ||vpsxb.net
 ||vilanet.me
 ||vewas.net
@@ -7077,7 +7063,6 @@ vraiesagesse.net
 
 !--------------------WW-------------------------
 ||wikiunblocked.org
-||websdr.org
 ||websdr.org
 ||wikipedia.com
 ||wxw.moe
@@ -7475,7 +7460,6 @@ yx51.net
 ||yzzk.com
 
 !--------------------ZZ-------------------------
-||z-library.ec
 ||z-library.ec
 ||z-library.sk
 ||z-lib.fm

@@ -1,6 +1,6 @@
 7-zip.org
+bing.com
+cn.bing.com
+global.bing.com
 m-team.cc
 w3schools.com
-bing.com
-global.bing.com
-cn.bing.com

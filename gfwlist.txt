@@ -224,7 +224,6 @@ aiweiwei.com
 aiweiweiblog.com
 akademiye.org
 akamaihd.net
-akamaihd.net
 akiba-online.com
 akiba-web.com
 akinator.com
@@ -239,7 +238,6 @@ alhayat.com
 alicejapan.co.jp
 aliengu.com
 alive.bar
-aljazeera.com
 aljazeera.com
 alkasir.com
 all4mom.org
@@ -453,7 +451,6 @@ backchina.com
 backpackers.com.tw
 backtotiananmen.com
 bad.news
-bad.news
 badiucao.com
 badjojo.com
 badoo.com
@@ -583,7 +580,6 @@ billypan.com
 binance.com
 binance.org
 binancezh.cc
-bing.com
 binux.me
 bird.so
 bit-z.com
@@ -1106,6 +1102,7 @@ cloud1.mikrotik.com
 cloud2.mikrotik.com
 cloudflare-dns.com
 cloudflare-ipfs.com
+cloudflare.com
 cloudflarestatus.com
 cloudfunctions.net
 club1069.com
@@ -1401,7 +1398,6 @@ dnsrd.com
 dnssec.net
 dnvod.tv
 doc.new
-docker.com
 docker.com
 docker.io
 dockerstatus.com
@@ -2067,7 +2063,6 @@ gizlen.net
 gjczz.com
 glarity.app
 glass8.eu
-global.bing.com
 global.ssl.fastly.net
 globaljihad.net
 globalmediaoutreach.com
@@ -2118,7 +2113,6 @@ gongm.in
 goo.gl
 goo.gle
 goo.ne.jp
-good.news
 good.news
 gooday.xyz
 goodhope.school
@@ -2646,7 +2640,6 @@ hudson.org
 huffingtonpost.com
 huffpost.com
 huggingface.co
-huggingface.co
 hugoroy.eu
 huhaitai.com
 huhamhire.com
@@ -2970,7 +2963,6 @@ justdied.com
 justfreevpn.com
 justhost.ru
 justmysocks.net
-justmysocks.net
 justmysocks1.net
 justmysockscn.com
 justpaste.it
@@ -3156,7 +3148,6 @@ linglingfa.com
 lingualeo.com
 lingvodics.com
 link-o-rama.com
-linkedin.com
 linkedin.com
 linkideo.com
 linktr.ee
@@ -3860,7 +3851,6 @@ on2.com
 onapp.com
 one.one.one.one
 onedrive.com
-onedrive.com
 onedrive.live.com
 onedumb.com
 onejav.com
@@ -4015,7 +4005,6 @@ perfect-privacy.com
 perfectgirls.net
 periscope.tv
 perplexity.ai
-perplexity.ai
 persecutionblog.com
 persiankitty.com
 pewresearch.org
@@ -4084,7 +4073,6 @@ pobieramy.top
 podbean.com
 podcast.co
 podictionary.com
-poe.com
 poe.com
 poecdn.net
 points-media.com
@@ -4847,7 +4835,6 @@ swissinfo.ch
 swissvpn.net
 switch1.jp
 switchvpn.net
-sydney.bing.com
 sydneytoday.com
 sylfoundation.org
 symcb.com
@@ -5370,7 +5357,6 @@ tycool.com
 typepad.com
 typeset.io
 typora.io
-typora.io
 u15.info
 u9un.com
 ua5v.com
@@ -5841,7 +5827,6 @@ wwitv.com
 www.ajsands.com
 www.antd.org
 www.aolnews.com
-www.bing.com
 www.businessinsider.com.au
 www.cmoinc.org
 www.dmm.com
@@ -5888,7 +5873,6 @@ x-berry.com
 x-wall.org
 x.ai
 x.co
-x.com
 x.com
 x.company
 x24hr.com
