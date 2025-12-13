@@ -315,6 +315,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=antichristendom.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=antiwave.net } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=antpool.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=anuneko.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=anyporn.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=anysex.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ao3.org } on-error={}
@@ -2913,6 +2914,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=jetos.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=jex.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=jgoodies.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=jhelab.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=jiangweiping.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=jiaoyou8.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=jiehua.cz } on-error={}
@@ -4076,6 +4078,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=podbean.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=podcast.co } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=podictionary.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=podwise.ai } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=poe.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=poecdn.net } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=points-media.com } on-error={}
@@ -4252,9 +4255,11 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radiko.jp } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radio-canada.ca } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radio-en-ligne.fr } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radio.co } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radio.garden } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radioaustralia.net.au } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radiohilight.net } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radiojar.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radioline.co } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radiovaticana.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=radiovncr.com } on-error={}
