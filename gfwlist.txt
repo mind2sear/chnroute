@@ -224,7 +224,6 @@ aiweiwei.com
 aiweiweiblog.com
 akademiye.org
 akamaihd.net
-akamaihd.net
 akiba-online.com
 akiba-web.com
 akinator.com
@@ -239,7 +238,6 @@ alhayat.com
 alicejapan.co.jp
 aliengu.com
 alive.bar
-aljazeera.com
 aljazeera.com
 alkasir.com
 all4mom.org
@@ -455,7 +453,6 @@ backchina.com
 backpackers.com.tw
 backtotiananmen.com
 bad.news
-bad.news
 badiucao.com
 badjojo.com
 badoo.com
@@ -590,6 +587,7 @@ bird.so
 bit-z.com
 bit.do
 bit.ly
+bitbaby.com
 bitbay.net
 bitchute.com
 bitcointalk.org
@@ -1404,8 +1402,6 @@ dnssec.net
 dnvod.tv
 doc.new
 docker.com
-docker.com
-docker.io
 docker.io
 dockerstatus.com
 docs.deno.com
@@ -1828,7 +1824,6 @@ fofg.org
 fooooo.com
 forbes.com
 forefront.ai
-forefront.ai
 foreignaffairs.com
 foreignpolicy.com
 form.new
@@ -2121,7 +2116,6 @@ gongm.in
 goo.gl
 goo.gle
 goo.ne.jp
-good.news
 good.news
 gooday.xyz
 goodhope.school
@@ -2649,7 +2643,6 @@ hudson.org
 huffingtonpost.com
 huffpost.com
 huggingface.co
-huggingface.co
 hugoroy.eu
 huhaitai.com
 huhamhire.com
@@ -2708,6 +2701,7 @@ iconpaper.org
 icu-project.org
 id.hao123.com
 id.heroku.com
+idcflare.com
 idemocracy.asia
 identi.ca
 idiomconnection.com
@@ -2974,7 +2968,6 @@ justdied.com
 justfreevpn.com
 justhost.ru
 justmysocks.net
-justmysocks.net
 justmysocks1.net
 justmysockscn.com
 justpaste.it
@@ -3160,7 +3153,6 @@ linglingfa.com
 lingualeo.com
 lingvodics.com
 link-o-rama.com
-linkedin.com
 linkedin.com
 linkideo.com
 linktr.ee
@@ -3864,7 +3856,6 @@ on2.com
 onapp.com
 one.one.one.one
 onedrive.com
-onedrive.com
 onedrive.live.com
 onedumb.com
 onejav.com
@@ -4019,7 +4010,6 @@ perfect-privacy.com
 perfectgirls.net
 periscope.tv
 perplexity.ai
-perplexity.ai
 persecutionblog.com
 persiankitty.com
 pewresearch.org
@@ -4089,7 +4079,6 @@ podbean.com
 podcast.co
 podictionary.com
 podwise.ai
-poe.com
 poe.com
 poecdn.net
 points-media.com
@@ -5376,7 +5365,6 @@ tycool.com
 typepad.com
 typeset.io
 typora.io
-typora.io
 u15.info
 u9un.com
 ua5v.com
@@ -5894,7 +5882,6 @@ x-wall.org
 x.ai
 x.co
 x.com
-x.com
 x.company
 x24hr.com
 x3guide.com
@@ -6072,15 +6059,12 @@ yyjlymb.xyz
 yysub.net
 yzzk.com
 z-lib.fm
-z-lib.fm
 z-lib.fo
-z-lib.gd
 z-lib.gd
 z-lib.gl
 z-lib.io
 z-lib.org
 z-library.ec
-z-library.sk
 z-library.sk
 zacebook.com
 zalmos.com
