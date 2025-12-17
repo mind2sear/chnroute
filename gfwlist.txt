@@ -583,7 +583,6 @@ billypan.com
 binance.com
 binance.org
 binancezh.cc
-bing.com
 binux.me
 bird.so
 bit-z.com
@@ -1106,6 +1105,7 @@ cloud1.mikrotik.com
 cloud2.mikrotik.com
 cloudflare-dns.com
 cloudflare-ipfs.com
+cloudflare.com
 cloudflarestatus.com
 cloudfunctions.net
 club1069.com
@@ -1403,6 +1403,7 @@ dnvod.tv
 doc.new
 docker.com
 docker.com
+docker.io
 docker.io
 dockerstatus.com
 docs.deno.com
@@ -1825,6 +1826,7 @@ fofg.org
 fooooo.com
 forbes.com
 forefront.ai
+forefront.ai
 foreignaffairs.com
 foreignpolicy.com
 form.new
@@ -2067,7 +2069,6 @@ gizlen.net
 gjczz.com
 glarity.app
 glass8.eu
-global.bing.com
 global.ssl.fastly.net
 globaljihad.net
 globalmediaoutreach.com
@@ -4847,7 +4848,6 @@ swissinfo.ch
 swissvpn.net
 switch1.jp
 switchvpn.net
-sydney.bing.com
 sydneytoday.com
 sylfoundation.org
 symcb.com
@@ -5841,7 +5841,6 @@ wwitv.com
 www.ajsands.com
 www.antd.org
 www.aolnews.com
-www.bing.com
 www.businessinsider.com.au
 www.cmoinc.org
 www.dmm.com
@@ -6067,12 +6066,15 @@ yyjlymb.xyz
 yysub.net
 yzzk.com
 z-lib.fm
+z-lib.fm
 z-lib.fo
+z-lib.gd
 z-lib.gd
 z-lib.gl
 z-lib.io
 z-lib.org
 z-library.ec
+z-library.sk
 z-library.sk
 zacebook.com
 zalmos.com
