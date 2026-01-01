@@ -3997,6 +3997,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=pdetails.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=pdproxy.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=pds.nasa.gov } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=pdst.fm } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=peace.ca } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=peacefire.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=peeasian.com } on-error={}
@@ -5425,6 +5426,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=unstable.icu } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=unwire.hk } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=uocn.org } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=up.audio } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=upbit.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=updates.tdesktop.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=upghsbc.com } on-error={}
