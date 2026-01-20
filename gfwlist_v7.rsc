@@ -5726,6 +5726,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=wefong.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=wego.here.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=weiboleak.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=weights.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=weihuo.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=weijingsheng.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=weiming.info } on-error={}
@@ -6057,6 +6058,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=youdontcare.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=youjizz.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=youmaker.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=youmind.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=youngpornvideos.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=youngspiration.hk } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=youpai.org } on-error={}
