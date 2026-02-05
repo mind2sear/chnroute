@@ -2398,6 +2398,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=greenvpn.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=grindr.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=grok.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=grokipedia.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=groq.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ground.news } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=gs-discuss.com } on-error={}
