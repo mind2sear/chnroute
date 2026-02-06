@@ -610,6 +610,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bitshare.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bitsnoop.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bitterwinter.org } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bittorrent.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bitvise.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bitz.ai } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bizhat.com } on-error={}
@@ -2478,6 +2479,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=helpeachpeople.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=helpster.de } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=helpzhuling.org } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=hembed.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=hentai.to } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=hentaitube.tv } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=hentaivideoworld.com } on-error={}
@@ -5520,6 +5522,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=uygur.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=uymaarip.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=v2.help } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=v2.hysteria.network } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=v2ex.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=v2fly.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=v2ray.com } on-error={}
