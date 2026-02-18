@@ -1781,7 +1781,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=gutteruncensored.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=gvlib.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=gvm.com.tw } on-error={}
-:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=gvt1.com] } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=gvt1.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=gvt3.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=gwins.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=gwtproject.org } on-error={}
@@ -2499,6 +2499,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=moresci.sale } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=morningsun.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mos.ru } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mosavi.io } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=motherless.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=movements.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=movie.xeton.dev } on-error={}
