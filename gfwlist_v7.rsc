@@ -3672,6 +3672,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=topsy.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=toptip.ca } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=toptoon.net } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=tor.eff.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=torguard.net } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=torlock.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=torproject.org } on-error={}
@@ -3827,6 +3828,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=underwoodammo.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=unholyknight.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=unirule.cloud } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=uniswap.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=unknownspace.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=unmineable.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=unseen.is } on-error={}
