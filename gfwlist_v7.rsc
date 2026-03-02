@@ -800,6 +800,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ck101.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=classicalguitarblog.net } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=claude.ai } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=claude.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=cldr.unicode.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=clearsurance.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=clementine-player.org } on-error={}
@@ -2348,6 +2349,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mangafox.me } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mangmang.run } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=manta.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=manus.im } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=manyvoices.news } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=marc.info } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=martau.com } on-error={}
@@ -4155,7 +4157,6 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.hoyolab.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.hustlercash.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.idlcoyote.com } on-error={}
-:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.imdb.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.kindleren.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.lorenzetti.com.br } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=www.m-sport.co.uk } on-error={}
