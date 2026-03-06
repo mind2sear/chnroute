@@ -1025,6 +1025,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=dmcdn.net } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=dmhy.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=dmm.co.jp } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=dns.cloudflare.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=dns2go.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=dnscrypt.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=dnssec.net } on-error={}
@@ -1628,6 +1629,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=google.cv } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=google.cz } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=google.de } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=google.dev } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=google.dj } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=google.dk } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=google.dm } on-error={}
@@ -2053,6 +2055,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=interseclab.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=inthenameofconfuciusmovie.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=investigating.wordpress.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=investing.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=invidio.us } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=inxian.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=ipdefenseforum.com } on-error={}
