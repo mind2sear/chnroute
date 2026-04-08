@@ -2400,7 +2400,6 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mediawiki.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=medium.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=meee.com.tw } on-error={}
-:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=meetup.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mega.co.nz } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mega.io } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mega.nz } on-error={}
@@ -2476,6 +2475,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mirrormedia.mg } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=missav.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=missav.ws } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mistral.ai } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=misty.ltd } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mitbbs.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=miuipolska.pl } on-error={}
@@ -3031,7 +3031,6 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=putty.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=pximg.net } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=python.com.tw } on-error={}
-:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=pytorch.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=qbittorrent.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=qgirl.com.tw } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=qi-gong.me } on-error={}
