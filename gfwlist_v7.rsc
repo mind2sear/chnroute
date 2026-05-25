@@ -2545,6 +2545,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=movements.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=movie.xeton.dev } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=moviefap.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mozilla.ai } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mpettis.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mpfinance.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=mpinews.com } on-error={}
