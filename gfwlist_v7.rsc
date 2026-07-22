@@ -3817,6 +3817,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=togetter.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=token.im } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=tokenlon.im } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=tokenplus.app } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=tokyo-porn-tube.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=tokyocn.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=tomp3.cc } on-error={}
