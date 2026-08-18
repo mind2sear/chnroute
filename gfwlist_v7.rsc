@@ -3296,6 +3296,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=s-cute.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=s.yimg.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=s3-ap-northeast-1.amazonaws.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=s3.dualstack.us-west-2.amazonaws.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=sacks.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=sacom.hk } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=sadistic-v.com } on-error={}
@@ -4270,6 +4271,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=windows.net } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=windowsazure.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=windscribe.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=windy.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=wingamestore.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=wingy.site } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=wionews.com } on-error={}
