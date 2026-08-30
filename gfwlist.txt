@@ -1509,6 +1509,7 @@ getlantern.org
 getmalus.com
 getmdl.io
 getmicrosoftkey.com
+getmonero.org
 getoutline.org
 getsession.org
 getsync.com
@@ -2763,6 +2764,7 @@ nic.cz.cc
 nic.gov
 niceduck.lol
 niceduck.me
+nicoseiga.jp
 nicovideo.jp
 nightswatch.top
 nijigem.by

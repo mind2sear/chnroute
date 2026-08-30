@@ -1512,6 +1512,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=getmalus.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=getmdl.io } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=getmicrosoftkey.com } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=getmonero.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=getoutline.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=getsession.org } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=getsync.com } on-error={}
@@ -2766,6 +2767,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=nic.gov } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=niceduck.lol } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=niceduck.me } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=nicoseiga.jp } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=nicovideo.jp } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=nightswatch.top } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=nijigem.by } on-error={}
