@@ -442,6 +442,7 @@
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bigone.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bild.de } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bili.rip } on-error={}
+:do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bilibili.tv } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=bilinovel.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=biliworld.com } on-error={}
 :do { add forward-to=$dnsserver type=FWD match-subdomain=yes name=binance.com } on-error={}
